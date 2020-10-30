@@ -2,5 +2,6 @@
 
 C# DLL to Access the SMU used in OCMaestro
 
-From infraRed:
+From I.nfraR.ed:
+
 https://github.com/irusanov/ZenStates
